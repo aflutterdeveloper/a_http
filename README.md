@@ -1,6 +1,6 @@
 # ahttp
 
-a http wrapper 
+Provide flutter developers with a http tool library that supports multi-threaded concurrency
 
 ## Getting Started
 

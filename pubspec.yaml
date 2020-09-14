@@ -1,5 +1,5 @@
 name: a_http
-description: a http wrapper 
+description: Provide flutter developers with a http tool library that supports multi-threaded concurrency
 version: 0.0.1
 author:
 homepage:
