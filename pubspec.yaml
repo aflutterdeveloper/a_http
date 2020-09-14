@@ -1,6 +1,6 @@
 name: a_http
 description: Provide flutter developers with a http tool library that supports multi-threaded concurrency
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/aflutterdeveloper/a_http.git
 
 environment:

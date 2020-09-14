@@ -1,5 +1,5 @@
+
 import 'package:a_thread_pool/a_thread_pool.dart';
-import 'package:flutter/material.dart';
 
 enum AHttpCode {
   SUCCEED,
